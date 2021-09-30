@@ -1,0 +1,16 @@
+Alumno: Cuenta registrada de Xpertcad con el nivel de Alumno..
+Grado: Nivel de permisos que tiene una cuenta de Xpertcad para llevar a cabo diversas acciones dentro de la plataforma Xpertcad.
+Curso: Experiencias de enseñanza-aprendizaje de tipo interactivo con estructura modificable en Xpertcad.
+Lecciones: Secciones informativas que en conjunto completan un tema.
+Temas: Secciones o unidades en las que se divide cada Curso.
+Items / Bloque : Componentes de Xpertcad que permiten generar una estructura automática en el editor de Cursos
+Curso LV - ID: Presentación interactiva generada por un docente o desarrollador dentro de la plataforma "Laboratorio virtual". Cuenta con un ID.
+Asset - ID: Modelo 3D optimizado mediante LOD, y disponible en un servidor para descarga directa desde "Laboratorio Virtual". Cuenta con un ID.
+ID: texto generado automáticamente que contiene letras y números, este sirve para identificar un Asset o una Actividad dependiendo de su estructura.
+Lista de Pasos: Lista generada por el editor del Curso LV, que reune todos los pasos añadidos en el orden que el editor del curso desee.
+Pasos: Herramienta de Actividad que permite añadir diversas animaciones, audios, videos o movimientos 3D de camara y modelos para una mejor explicación de un tema para la presentación.
+Lista de Actividades: Lista compuesta por una serie de Actividades generadas por los desarrolladores y añadidas a Laboratorio Virtual.
+Actividades: Herramienta dentro de Laboratorio Virtual que consiste en una estructura editable para llevar a cabo un micro juego para complementar la información del Curso LV
+Modelos: Archivo que consta en uno o varios modelos 3D con una jerarquía, material y animaciones establecidas.
+Laboratorio Virtual: Plataforma desarrollada en Unity e implementada con un WebGL a la plataforma Xpertcad para que los usuarios de Grado Docente o Desarrollador puedan crear o editar Cursos LV.
+Xpertcad Activities: Item que se puede añadir a la estructura de un curso por alguien con permisos para editar dicho Curso, al que se le asigna un ID de un Curso LV para descargar y reproducirlo, y que los alumnos con acceso a el Curso de Xpertcad lo encontrarán disponible en la lección en la que el docente o desarrollador lo haya colocado.
